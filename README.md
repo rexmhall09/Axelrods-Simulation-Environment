@@ -4,7 +4,7 @@ A simple and interactive simulation tool inspired by Axelrod's classic tournamen
 
 ## Features
 
-- **Customize Strategies:** Write and test your own strategy against others.
+- **Customize Strategies:** Write and test your own strategy against genaric strategies.
 - **Quick Simulation:** Instantly run tournaments to see how your strategy performs.
 - **Easy-to-use:** Designed for simplicity and accessibility.
 
